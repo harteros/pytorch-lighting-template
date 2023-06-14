@@ -3,7 +3,7 @@
 This project provides a starting point for structuring your machine learning project in a scalable and extensible way.
 
 You can find more information about the project structure in my blog
-post: [Scalable Project Structure for Machine Learning Projects with PyTorch and PyTorch Lightning](https://medium.com/@l.charteros/d5f1408d203e).
+post: [Scalable Project Structure for Machine Learning Projects with PyTorch and PyTorch Lightning](https://medium.com/@l.charteros/scalable-project-structure-for-machine-learning-projects-with-pytorch-and-pytorch-lightning-d5f1408d203e).
 
 ## Project Structure
 
